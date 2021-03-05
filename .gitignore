@@ -1,3 +1,4 @@
 # Project exclude paths
 /insight-newjava/.settings/
 /insight-newjava-module/.settings/
+.idea
